@@ -1,0 +1,12 @@
+{
+  "key": "d31a833a4509763857761524a97e5cc539a43640889a270fceb5a1f4",
+  "provider" : "https://bsc-dataseed.binance.org/",
+  "address": "0xf7c9B3A850850bDE3df0aC9A462743092FA7bdA0",
+  "private_key": "738b01d1d9e2213a34d9dc7ad7d7c4ec4eaa3bf84c2845dd3f482df016ac3d68",
+  "new_token_address": "0xf952fc3ca7325cc27d15885d37117676d25bfda6",
+  "trailing_stop": 5,
+  "slippage": 100,
+  "speed": 1,
+  "gas_limit": 500000,
+  "amount" :0.001
+}
